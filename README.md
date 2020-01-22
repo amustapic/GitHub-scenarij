@@ -1,3 +1,3 @@
 # GitHub-scenarij
 Scenarij
- (branch): nova-promjena
+Studiram na Fakultetu informatike u Puli.
